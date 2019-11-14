@@ -1670,12 +1670,7 @@
 		text-align: center;
 	}
 
-	@media screen and (max-width: 736px) {
-
-		.sub-header {
-visibility: hidden;
-		}
-
+	
 
 		p.special {
 			text-transform: uppercase;
