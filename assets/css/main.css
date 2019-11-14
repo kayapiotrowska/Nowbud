@@ -84,6 +84,7 @@
 
 	.banner-subpage{
 		background-color: #000034;
+		background: rgb(0, 155, 204);
 	}
 
 	.banner-subpage h2{
@@ -3453,6 +3454,7 @@
 	#header {
 		background: rgba(0, 0, 0, 0.975);
 		background: #000034;
+		background: rgb(0, 155, 204);
 		/*opacity: 0.9;*/
 		color: #a6a6a6;
 		cursor: default;
@@ -3633,6 +3635,7 @@
 		-webkit-overflow-scrolling: touch;
 		background: rgba(0, 0, 0, 0.95);
 		background: #000034;
+		background: rgb(0, 155, 204);
 		box-shadow: none;
 		color: #000;
 		height: 100%;
@@ -4043,6 +4046,7 @@
 		padding: 2rem 0 2rem 0 ;
 		background: #000;
 		background: #000034;
+		background: rgba(0, 155, 204, 0.95);
 		text-align: center;
 	}
 
