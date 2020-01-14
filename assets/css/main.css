@@ -1705,6 +1705,14 @@
 			text-decoration: none;
 		}
 
+		h1 i, h2 i, h3 i, h4 i, h5 i, h6 i {
+			color:black;
+			color:rgba(0, 155, 204, 0.95);
+			text-decoration: none;
+		  }
+
+
+
 	h2 {
 		font-size: 1.75rem;
 	}
@@ -2916,6 +2924,7 @@
 
 			.wrapper.style2 strong, .wrapper.style2 b {
 				color: #000;
+				color: #a6a6a6;
 			}
 
 			.wrapper.style2 h1, .wrapper.style2 h2, .wrapper.style2 h3, .wrapper.style2 h4, .wrapper.style2 h5, .wrapper.style2 h6 {
@@ -2995,9 +3004,10 @@
 
 		.wrapper.style3 {
 			background-color: white;
+			background-color: rgb(0, 155, 204);
+			background-color: rgb(0, 104, 150 );
 			color: #bfbfbf;
-			/*background-image: url(../../images/slide05.jpg);*/
-			background-image: url(../../images/ice3.jpg);
+			/*background-image: url(../../images/ice3.jpg);*/
 			background-size: cover;
 			background-attachment: fixed;
 			background-position: center;
@@ -3045,6 +3055,7 @@
 
 			.wrapper.style3 header p {
 				color: #999999;
+				color:black;
 			}
 
 			.wrapper.style3 table tbody tr {
@@ -3078,7 +3089,7 @@
 
 			.wrapper.style3 p {
 				text-transform: uppercase;
-				font-size: .75rem;
+				font-size: 1rem;
 				font-weight: 300;
 				margin: 0 0 .5rem 0;
 				padding: 0 0 1rem 0;
@@ -4171,7 +4182,7 @@ footer h2{
 
 .js .toggle-box .content { 
 	display:none; 
-	background-color: rgba(242,242,242,0.9);
+	background-color: rgb(255,255,255);
 	color:#a6a6a6;
 	margin-top:2rem;
 }
